@@ -1,5 +1,6 @@
 <script>
 	import Avatars from '@dicebear/avatars';
+	import adventurers from '@dicebear/adventurer';
 	import maleSprites from '@dicebear/avatars-male-sprites';
 	import femaleSprites from '@dicebear/avatars-female-sprites';
 	import botttsSprites from '@dicebear/avatars-bottts-sprites';
@@ -78,6 +79,8 @@
 				return initialsSprites;
 			case "jdenticon":
 				return jdenticonSprites;
+			case 'adventurer':
+				return adventurers;
 			default:
 				break;
 		}
