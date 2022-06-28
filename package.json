@@ -200,7 +200,6 @@
     "from": "0.1.7",
     "fs-extra": "8.1.0",
     "fs.realpath": "1.0.0",
-    "fsevents": "2.1.2",
     "function-bind": "1.1.1",
     "functional-red-black-tree": "1.0.1",
     "gensync": "1.0.0-beta.1",
